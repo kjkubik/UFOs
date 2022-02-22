@@ -1,5 +1,9 @@
-# UFOs - Deployed at https://kjkubik.github.io/UFOs/ (Check it out!)
+# UFO Analysis 
+Create web-based interactive dashboard for user wanting to look-up specific UFO tabled data.  
 Javascript, HTML, CSS, Bootstrap, ETL, displaying tabled data using Javascript D3 library
+
+Deployed at https://kjkubik.github.io/UFOs/ (Check it out!)
+
 
 ## Project Overview:
 In this project a dynamic/interactive web page using JavaScript is created. JavaScript (D3) is used to load an array of table rows into the HTML web page table. Multiple filters are also created so that the table data can be filtered by users of the web page. CSS and Bootstrap are used to style the web page. 
