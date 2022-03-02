@@ -32,7 +32,6 @@ Here is the HTML form additions I made:
 
 ![](static/images/HTMLChange.png)
 
-
 ### Single Filter Criteria
 The user can still filter table on a single row. Say date is entered, the resulting filtered rows would be:
 ![](static/images/FilteringBySingleField.png)
